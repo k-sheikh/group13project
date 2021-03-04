@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "group-13",
+  "version": "1.0.0",
+  "description": "Morning routine game by Group 13",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darren Moore, Kashan Sheikh, Sixian Chen",
+  "license": "ISC"
+}
