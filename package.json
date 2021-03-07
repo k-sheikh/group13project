@@ -1,11 +1,24 @@
 {
-  "name": "Disaster Routine",
+  "type": "module",
+  "name": "daily-routine-game",
   "version": "1.0.0",
-  "description": "simple text based game",
+  "description": "Node JS game by Group 13",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
-  "author": "Darren Moore, Kashan Sheikh, Sixian Chen",
-  "license": "ISC"
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "rpg",
+    "command-line",
+    "application"
+  ],
+  "author": "Group 13",
+  "bugs": {},
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "lodash": "^4.17.21"
+  }
 }
