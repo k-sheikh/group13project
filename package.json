@@ -15,7 +15,7 @@
     "command-line",
     "application"
   ],
-  "author": "Group 13",
+  "author": "Sixian Chen, Darren Moore, Kashan Sheikh",
   "bugs": {},
   "dependencies": {
     "inquirer": "^7.3.3",
